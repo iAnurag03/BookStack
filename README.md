@@ -1,2 +1,2 @@
 # BookStack
-Library Management System
+Library Management System using MERN stack.
